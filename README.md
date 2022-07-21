@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praisechukwuebuka
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End Web Develpment
+- 👀 I’m a Website developer
+- 🌱 I’m currently done with Front-End and now learning Back-End Web Develpment
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me praise.njoga@gmail.com
 
