@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Praise by name
-- 👀 I’m a Website devop. and a Penetration Tester
-- 🌱 I’m currently done with learning Front-End and now on Back-End Web Develpment
-- 💞️ I’m looking to collaborate on Github
+- 👀 I’m a Backend Website devop. and a Penetration Tester
+- 🌱 I’m currently done with learning Front-End so majorly on Backend
+- 💞️ I’m looking forward to collaborate on Github
 - 📫 You can reach me on Mail: praise.njoga@gmail.com
 
 <!---
