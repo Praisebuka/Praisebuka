@@ -6,19 +6,25 @@
 
 # 💫 About Me:
 - 💡 I’m Praise Ebuka, a backend developer
-- 🌱 I’m currently done with learning Front-End so majorly on Backend
+- 🌱 I’m currently done with learning Front-End so majorly on Backend Development
 - 💞️ I’m looking forward to collaborating with anyone on Github and anywhere
 - 📫 You can reach me on Mail: praise.njoga@gmail.com
+- 📫 <a href="https://thepraise.netlify.app" target="_blank"> Current portfoliio website</a>
 
 ## 🌐 Socials:
 
 <p align="left">
+<a href="https://www.facebook.com/praisebuka" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Praise Ebuka" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/praisebuka/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praise Ebuka" height="30" width="40" /></a>
+</p>
 
 <a href="https://twitter.com/PraiseEbuka1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=Praise-Ebuka" height="30" width="40" /></a> 
 </p>
+
 
 
 # 💻 Tech Stack:
