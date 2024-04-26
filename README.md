@@ -5,10 +5,10 @@
 </h1>
 
 # 💫 About Me:
-- 💡 I’m Praise Ebuka, a backend developer
-- 🌱 I’m currently done with learning Front-End so majorly on Backend Development
-- 💞️ I’m looking forward to collaborating with anyone on Github and anywhere
-- 📫 You can reach me on Mail: praise.njoga@gmail.com
+- 💡 I am Praise by name
+- 🌱 I’m a Fullstack Developer but deals majorly with Backend Development
+- 💞️ I’m looking forward to collaborating with anyone on Github and globally
+- 📫 You can reach me via Mailbox: praise.njoga@gmail.com
 - 📫 <a href="https://thepraise.netlify.app" target="_blank"> Current portfoliio website</a>
 
 ## 🌐 Socials:
