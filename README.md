@@ -19,7 +19,6 @@
 
 <a href="https://www.linkedin.com/in/praisebuka/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praise Ebuka" height="30" width="40" /></a>
-</p>
 
 <a href="https://twitter.com/PraiseEbuka1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=Praise-Ebuka" height="30" width="40" /></a> 
@@ -57,9 +56,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Praisebuka&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Praisebuka&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praisebuka&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Praisebuka&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
