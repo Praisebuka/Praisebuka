@@ -7,7 +7,7 @@
 # 💫 About Me:
 - 💡 I am Praise by name
 - 🌱 I’m a Fullstack Developer but deals majorly with Backend Development
-- 💞️ I’m looking forward to collaborating with anyone on Github and globally
+- 💞️ I’m looking forward to collaborating with anyone globally
 - 📫 You can reach me via Mailbox: praise.njoga@gmail.com
 - 📫 <a href="https://thepraise.netlify.app" target="_blank"> Current portfoliio website</a>
 
