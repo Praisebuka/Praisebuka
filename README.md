@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Praise+Ebuka...;A+Backend+Developer;It's+Nice+to+meet+you!&center=true&size=30&color=fe428e">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Praise+Ebuka...;A+Software+Developer;It's+Nice+to+meet+you!&center=true&size=30&color=fe428e">
   </a>
 </h1>
 
 # 💫 About Me:
 - 💡 I am Praise by name
-- 🌱 I’m a Fullstack Developer but deals majorly with Backend Development
+- 🌱 I’m a Software Developer but deals majorly with Backend Development
 - 💞️ I’m looking forward to collaborating with anyone globally
 - 📫 You can reach me via Mailbox: praise.njoga@gmail.com
 - 📫 <a href="https://thepraise.netlify.app" target="_blank"> Current portfoliio website</a>
